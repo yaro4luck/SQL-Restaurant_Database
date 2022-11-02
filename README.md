@@ -1,5 +1,5 @@
 # DATABASE PROJECT
-SQL script (for Ubuntu Server Linux version) creating PostgreSQL RDBS "Restaurant" (simple model of restaurant) with the help of SQL queries, psql shell commands and PL/pgsql language blocks.
+SQL script (![THE_SCRIPT]README.md)(for Ubuntu Server Linux version) creating PostgreSQL RDBS "Restaurant" (simple model of restaurant) with the help of SQL queries, psql shell commands and PL/pgsql language blocks.
 
 :copyright:yaro4luck
 
