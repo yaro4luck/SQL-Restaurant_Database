@@ -3,5 +3,7 @@ SQL script (for Ubuntu Server Linux version) creating PostgreSQL RDBS "Restauran
 
 :copyright:yaro4luck
 
-![1666095142281](https://user-images.githubusercontent.com/112153257/199541707-1adae83a-de3a-44e7-8fe2-ad6ef0a60621.jpg)
+![img_01](https://user-images.githubusercontent.com/112153257/199541707-1adae83a-de3a-44e7-8fe2-ad6ef0a60621.jpg)
+
+
 
